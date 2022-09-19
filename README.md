@@ -7,7 +7,7 @@ Below are LINKS to the ones I have:
 
 - [Stacked_example:](https://github.com/FilledStacks/stacked/tree/master/packages/stacked/example) Recommended approach from the team the developed the Stacked package.
 - [Zuri chat app:](https://github.com/zurichat/zc_desktop_flutter) Zuri ChatApp is a Slack Clone Desktop App project created in Flutter.
-- [Nutri Gram:] (https://github.com/saileshbro/nutri.gram) An app that checks the nutritional value of food.
+- [Nutri Gram:](https://github.com/saileshbro/nutri.gram) An app that checks the nutritional value of food.
 - [Movie app:](https://github.com/moak13/auth_app) A movie app
 - [Most High Grade:](https://github.com/Edamijueda/MHG) Marketplace for all things smoke related.
 - [Auth_App:](https://github.com/moak13/auth_app) A simple beginner approach to authentication
